@@ -1,0 +1,9 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Backup tweaks</name>
+            <url>https://github.com/backup-tweaks</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+    </footerlinks>
+</repo>
