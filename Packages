@@ -1,0 +1,57 @@
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 8124
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.2.0_iphoneos-arm.deb
+Size: 2245644
+MD5sum: 98713a57d5d86b720d38fc3d6603442c
+SHA1: cb56c48a810643719066ef7c6347da912543fb1d
+SHA256: 2bd0ec0310bbb7dc7f145cf0c1db86bd3be914827449bab645389f2f0d0c4814
+SHA512: a988c07b614c4b236c21dc32c3cde5cfd7b442b40ea0de27bcd3242d9f28d00b2e9000da4a6e95373ee7c72a69d32e8cd3fc674d5a11f4cd30abc2d58e66393e
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 7980
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.2.0_iphoneos-arm64.deb
+Size: 2225116
+MD5sum: c0f68b1f8df2386be94bcf89e4bb76e9
+SHA1: 137f7acd64912eb939c39732e06142602a922900
+SHA256: da6300e4a224283db1f0c2baf6b1b97c3072dbf390ce6b1061e3e6960dd813c0
+SHA512: 19363fe634efa1e756d492f622a649659e0e1647a0da4366298a5b9b03d5ccb0d205d139da47db0fd59ba1bea3fae857918dff06d5386d52d36c115f3cb6c472
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 7976
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.2.0_iphoneos-arm64e.deb
+Size: 2209296
+MD5sum: fc54b4731f92ccceace06180bf3daadd
+SHA1: f1bfa5731a634fe833595b40fdf82d2eeca53bad
+SHA256: c7d47adf771f900091a2d09a8d420c6843e3b85135b642f87b93bdc9282c03d4
+SHA512: c41863f6467597191f7e2a77bd72c78d41555cc87946cd03efba43dd48159c25f078fcb2aec974907f1fa198c2f8ba955e14a95b29f70b5091461df382b6507b
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
